@@ -73,6 +73,8 @@
 
 		"editorGroup.border": "#AB47BC",
 		"tab.inactiveBackground": "#241127",
+		"tab.border": "#aa47bc6b",
+
 
 	},
 	"editor.formatOnSave": true,
