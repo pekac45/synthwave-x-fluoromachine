@@ -238,7 +238,11 @@ canvas {
 	filter: drop-shadow(0 0 5px #03edf9);
 }
 
-.monaco-workbench .monaco-scrollable-element > .scrollbar > .slider {
+.monaco-workbench .monaco-scrollable-element > .vertical > .slider {
+	background: linear-gradient(to bottom, #fc28a8, #03edf9) !important;
+}
+
+.monaco-workbench .monaco-scrollable-element > .horizontal > .slider {
 	background: linear-gradient(to right, #fc28a8, #03edf9) !important;
 }
 
