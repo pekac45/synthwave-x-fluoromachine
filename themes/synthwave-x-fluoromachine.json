@@ -323,7 +323,7 @@
 			"name": "CSS class",
 			"scope": "entity.other.attribute-name.class",
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#89DDFE"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"name": "CSS tag",
 			"scope": "source.css entity.name.tag",
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ee218a"
 			}
 		},
 		{
