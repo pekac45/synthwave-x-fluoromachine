@@ -5,7 +5,7 @@ This is a fork of @robbowen's [Synthwave '84 theme](https://marketplace.visualst
 
 ## Installation 
 
-• install this theme  
+• install [this theme](https://marketplace.visualstudio.com/items?itemName=webrender.synthwave-x-fluoromachine)
 • install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)  
 • link the CSS file from this extension in your vscode settings.json: 
 
