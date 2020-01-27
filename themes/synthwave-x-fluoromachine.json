@@ -112,7 +112,6 @@
 		"gitDecoration.untrackedResourceForeground": "#8a2dc0",
 		"gitDecoration.ignoredResourceForeground": "#ffffff59",
 		"breadcrumbPicker.background": "#232530",
-
 		"activityBarBadge.background": "#AB47BC",
 		"activityBar.activeBorder": "#9545a1",
 		"activityBar.activeBackground": "#6f327a77",
@@ -145,6 +144,8 @@
 		"editor.selectionHighlightBorder": "#aa47bc6b",
 		"editor.selectionBackground": "#aa47bc46",
 		"editorGroup.border": "#AB47BC",
+		"editorSuggestWidget.background": "#2d0e3e",
+		"editorSuggestWidget.selectedBackground": "#3d1353",
 		"tab.inactiveBackground": "#241127",
 		"tab.border": "#aa47bc6b"
 	},
@@ -152,7 +153,7 @@
 		{
 			"name": "Global settings",
 			"settings": {
-				"background": "#0F111A",
+				"background": "#2d0e3e",
 				"foreground": "#8F93A2"
 			}
 		},
