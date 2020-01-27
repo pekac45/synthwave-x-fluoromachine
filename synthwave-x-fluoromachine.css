@@ -274,3 +274,7 @@ canvas {
 .notifications-center-header {
 	background-color: #3d1353 !important;
 }
+
+.monaco-editor .find-widget {
+	background-color: #2d0e3e !important;
+}
