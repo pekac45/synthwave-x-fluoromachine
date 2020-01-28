@@ -266,11 +266,11 @@ canvas {
 .monaco-editor .monaco-editor-hover {
 	background-color: #2d0e3e;
 }
-
+/* 
 .monaco-list-rows {
 	background-color: #2d0e3e !important;
 }
-
+ */
 .notifications-center-header {
 	background-color: #3d1353 !important;
 }
