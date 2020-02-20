@@ -1,7 +1,9 @@
 .mtk3,
-.mtk6 {
+.mtk6,
+.mtk13 {
 	color: #61e2ff;
-	text-shadow: 0 0 2px #001716, 0 0 5px #03edf933, 0 0 10px #ffff6633;
+	text-shadow: 0px 0px 2px #65cbd9, 0px 0px 10px #65cbd9,
+		0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .mtk4,
@@ -38,6 +40,8 @@
 .mtk10 {
 	color: #d60b74;
 	font-style: italic;
+	text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 10px #fc199a,
+		0 0 2px #fc199a;
 }
 
 .monaco-editor .margin,
@@ -266,11 +270,11 @@ canvas {
 .monaco-editor .monaco-editor-hover {
 	background-color: #2d0e3e;
 }
-/* 
-.monaco-list-rows {
+
+/* .monaco-list-rows {
 	background-color: #2d0e3e !important;
-}
- */
+} */
+
 .notifications-center-header {
 	background-color: #3d1353 !important;
 }
